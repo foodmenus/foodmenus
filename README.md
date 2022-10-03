@@ -7,6 +7,8 @@
 
 This project aims to collect the images of food menus of restaurants and hotels. It helps to guide the  beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
+Make sure you have some good images of food menu from your favorite restaurants. OR, come back when you have cliked one.
+
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
 
@@ -61,7 +63,7 @@ git checkout -b add-your-username-image
 
 ## Make necessary changes and commit those changes
 
-Now Copy your image into the menus folder. Make sure you are using a unique name and not replacing the existing file name. Also, please make sure the images are captured with good angle, and the contents are readable. (Preferablly scanned with something like Camscanner.)
+Now Copy your image into the menus folder. Make sure you are using a unique name and not replacing the existing file name. Also, please make sure the images are captured with good angle, and the contents are readable. (Preferablly scanned with something like Camscanner or Phone Scanner Apps.)
 
 [Optional] Now open `Contributors.md` file in a text editor, add your name to it. Now, save the file.
 
