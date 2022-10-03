@@ -67,7 +67,9 @@ git checkout -b add-your-username-image
 
 ## Make necessary changes and commit those changes
 
-Now Copy your image into the menus folder. Make sure you are using a unique name and not replacing the existing file name. Also, please make sure the images are captured with good angle, and the contents are readable. (Preferablly scanned with something like Camscanner or Phone Scanner Apps.)
+Now Copy your images into the menus folder. Make sure you are using a unique name and not replacing the existing file name. Also, please make sure the images are captured with good angle, and the contents are readable. (Preferablly scanned with something like Camscanner or Phone Scanner Apps.)
+
+You can add multipe images.
 
 [Optional] Now open `Contributors.md` file in a text editor, add your name to it. Now, save the file.
 
