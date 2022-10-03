@@ -17,11 +17,13 @@ This will create a copy of this repository in your account.
 
 <img src="https://raw.githubusercontent.com/foodmenus/foodmenus/main/materials/fork.JPG" width="400">
 
+<img src="https://raw.githubusercontent.com/foodmenus/foodmenus/main/materials/fork1.JPG" width="400">
+
 ## Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
-<img src="https://raw.githubusercontent.com/foodmenus/foodmenus/main/materials/clone.JPG" width="400">
+<img src="https://raw.githubusercontent.com/foodmenus/foodmenus/main/materials/clone.JPG" width="600">
 
 Open a terminal and run the following git command:
 
@@ -106,11 +108,14 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 Once the changes are pushed, if you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
+If you do not see that, please go to Pull requests.
+
+<img src="https://raw.githubusercontent.com/foodmenus/foodmenus/main/materials/pr.JPG" width="600">
 
 
 Now submit the pull request.
 
-
+<img src="https://raw.githubusercontent.com/foodmenus/foodmenus/main/materials/createpr.JPG" width="600">
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
